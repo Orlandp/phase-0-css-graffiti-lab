@@ -1,1 +1,45 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+#wall .tag-2 {
+    display: none;
+}
+#wall .tag-3 {
+    display: none;
+}
+#wall .tag-4 {
+    display: none;
+}
+#wall .tag-5 {
+    display: none;
+}
+
+#wall {
+    background-color: #f0f0f0; /* Change background color */
+}
+
+#wall h1 {
+    font-size: 2em; /* Increase font size */
+    color: #333; /* Change text color */
+}
+
+#wall p {
+    line-height: 1.5; /* Adjust line height */
+    color: #666; /* Change text color */
+}
+
+#wall .tag {
+    border: 1px solid red; /* Add border */
+    padding: 5px; /* Add padding */
+}
+
+/* Hiding graffiti tags */
+#wall .tag-1 {
+    display: none; /* Tag 1 */
+}
+#wall .tag-2 {
+    display: none; /* Tag 2 */
+}
+/* Additional styles can go here */
